@@ -3,7 +3,7 @@ hosinohito's voice data for UTAU.
 sample is [here](https://www.youtube.com/watch?v=R9rhAuGD5Ho).
 
 hosinohitoのUTAU用ボイスデータです。
-サンプルは[こちら](https://www.youtube.com/watch?v=R9rhAuGD5Ho)。
+歌わせてみたサンプルは[こちら](https://www.youtube.com/watch?v=R9rhAuGD5Ho)。
 
 # 使い方
 1. 右上の`Clone or download`→`Download ZIP`を順にクリックしてダウンロードしてください。
