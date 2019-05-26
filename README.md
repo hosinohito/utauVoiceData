@@ -1,4 +1,4 @@
-# utauVoiceData
+# hosinohitoVoiceDataforUTAU
 hosinohito's voice data for UTAU.
 sample is [here](https://www.youtube.com/watch?v=R9rhAuGD5Ho).
 
